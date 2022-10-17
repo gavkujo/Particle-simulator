@@ -12,7 +12,7 @@ This project was done as a part of a research project report so please check it 
 
 ## Screenshots
 
-### Cellular type clusters are formed
+### Cell-type clusters are formed
 ![App Screenshot](https://github.com/gavkujo/Particle-simulator/blob/main/Screenshots/Screenshot%202022-10-17%20at%2022.01.27.png)
 
 ### Random disordered movements
